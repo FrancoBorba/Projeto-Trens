@@ -28,7 +28,7 @@ Tecnologias Utilizadas
 
 Linguagem de programação: Java
 
-Ferramentas de desenvolvimento: IDE Eclipse ou similar
+Ferramentas de desenvolvimento: VScode
 
 Conceitos teóricos: Exclusão mútua, seções críticas, sincronização de threads
 
@@ -44,7 +44,7 @@ Como Executar
 
 Clone este repositório:
 
-git clone https://github.com/seu_usuario/projeto-trens
+git clone https://github.com/francoborba/Projeto-trens
 
 Abra o projeto em sua IDE de preferência.
 
